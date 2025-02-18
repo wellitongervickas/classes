@@ -75,7 +75,7 @@ const str2 = str3  /// error
 
 
 
-
+/// ignore
 // let  variable2 = 'ola' /// string
 // const variable3 = 'ola' /// string
 
