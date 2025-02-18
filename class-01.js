@@ -1,4 +1,5 @@
 /**
+ * https://www.dofactory.com/javascript/variables
  * // 
  * 1. string
  * 2. number
