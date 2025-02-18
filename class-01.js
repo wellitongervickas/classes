@@ -18,6 +18,7 @@
 
 var number = 1 /// number
 var variable1 = 'meu texto' /// string
+
 var variable1_02 = String(number) /// string
 var variable1_03 = `${number} não pode ser ${2}` /// convert ou concatenate 
 var variable1_04 = 'meu balanço é igual a :' + number /// concatenate
