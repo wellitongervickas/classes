@@ -7,7 +7,7 @@
  * 4. undefined
  * 5. null
  * 
- * // 
+ * // soon
  * 6. symbol
  * 7. function
  * 8. object
@@ -72,26 +72,3 @@ const str = String('string');/// global scope
 
 const str2 = str3  /// error
 
-
-
-
-/// ignore
-// let  variable2 = 'ola' /// string
-// const variable3 = 'ola' /// string
-
-// variable1 = 'tchau'
-// variable2 = 'tchau'
-// variable3 = 'tchau' /// error
-
-// const CONFIGURACAO_DO_SISTEMA = 'version_02'
-// const configuracaoDoSistema = 'version_02'
-
-
-/// Composition [key:value]
-// const objeto = {
-//     ola: true
-// }
-
-// objeto.tchau = true
-
-// objeto.ola = 'false'
